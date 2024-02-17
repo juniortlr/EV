@@ -1,6 +1,7 @@
 # EV
+## Resolution
 Electrical Vehicle Sales Study
-In the Electric_Vehicle_Population_Data.csv dataset we have a lot of information regarding vehicle electric range, Clean Alternative Fuel Vehicle (CAFV) Eligibility and location of the vehicles in the state of Washington.
+In the [Electric_Vehicle_Population_Data.csv](https://data.wa.gov/api/views/f6w7-q2d2/rows.csv?accessType=DOWNLOAD) dataset we have a lot of information regarding vehicle electric range, Clean Alternative Fuel Vehicle (CAFV) Eligibility and location of the vehicles in the state of Washington.
 
 https://medium.com/@junior.tlr/evs-fame-power-and-taxes-f030a205d091
 
@@ -27,3 +28,12 @@ This code runs on Python Python 3.12.1 and requires some libraries to run correc
 ```
 pip install -r requirements.txt
 ```
+## File Description
+ElectricVehiclesWA.ipynb: Notebook containing the data analysis
+Electric_Vehicle_Population_Data.csv: Dataset used in the study
+
+## License, Authors and Acknowledgements
+Data Sorce: [Electric_Vehicle_Population_Data.csv](https://data.wa.gov/api/views/f6w7-q2d2/rows.csv?accessType=DOWNLOAD)
+Dataset Credits: [data.wa.gov](data.wa.gov) Department of Licensing
+
+
