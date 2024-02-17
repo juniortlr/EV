@@ -29,11 +29,11 @@ This code runs on Python Python 3.12.1 and requires some libraries to run correc
 pip install -r requirements.txt
 ```
 ## File Description
-ElectricVehiclesWA.ipynb: Notebook containing the data analysis
-Electric_Vehicle_Population_Data.csv: Dataset used in the study
+* ElectricVehiclesWA.ipynb: Notebook containing the data analysis
+* Electric_Vehicle_Population_Data.csv: Dataset used in the study
 
 ## License, Authors and Acknowledgements
-Data Sorce: [Electric_Vehicle_Population_Data.csv](https://data.wa.gov/api/views/f6w7-q2d2/rows.csv?accessType=DOWNLOAD)
-Dataset Credits: [data.wa.gov](data.wa.gov) Department of Licensing
+* Data Sorce: [Electric_Vehicle_Population_Data.csv](https://data.wa.gov/api/views/f6w7-q2d2/rows.csv?accessType=DOWNLOAD)
+* Dataset Credits: [data.wa.gov](data.wa.gov) Department of Licensing
 
 
